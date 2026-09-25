@@ -1,5 +1,5 @@
 Gabriel Pelayo's GitHub page
-## Intrests
+## Interests
 * Snowboard
 * Listen to music
 * Ride horses
