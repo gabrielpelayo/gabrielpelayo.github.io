@@ -6,5 +6,9 @@ Gabriel Pelayo's GitHub page
 ### Other stuff
 > With great power comes great responsibilites
 - The best super heros uncle
-![ picture of spiderman being cool.](<img width="233" height="417" alt="Screenshot 2026-09-24 at 7 49 05 PM" src="https://github.com/user-attachments/assets/9d4e4aba-8dae-456b-b8c9-52b21afb1893" />)
+- Favorite Color is green
+- I have 12 goats
+- I can't backflip
+- Before coming to college I worked at Gran Coulee Dam which is the third biggest in the world and the largest in the Americas 
+
 
